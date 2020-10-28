@@ -110,6 +110,8 @@ We shall now create a tree-like diagram (called a dendrogram) of the movie title
 
 Let's import the modules we'll need to create our dendrogram.
 
+![Plot](plot.png)
+
 11. Create merging and plot dendrogram
 We shall plot a dendrogram of the movies whose similarity measure will be given by the similarity distance we previously calculated. The lower the similarity distance between any two movies, the lower their linkage will make an intercept on the y-axis. For instance, the lowest dendrogram linkage we shall discover will be between the movies, It's a Wonderful Life and A Place in the Sun. This indicates that the movies are very similar to each other in their plots.
 
